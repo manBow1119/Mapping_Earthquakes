@@ -1,3 +1,4 @@
+/* remove padding and margin to only body if problems */
 html,
 body,
 #mapid {
