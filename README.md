@@ -3,6 +3,11 @@
 ## Project Overview
 This project focused on creating overlapping visualizations about scraped earthquake data. Map visualizations were created with three optional base layers and three overlays. One overlay showed locations of all recent earthquakes, while another highlighted the recent major earthquakes. The third overlay showing the outlines of tectonic plates provided more context for the earthquake information. A legend provides the used with a reference for the scale of earthquakes based on color of location marker. Finally, the user has selection controls to determine the base layer and select one, two, or all three overlays.
 
+### Technologies
+* HTML, CSS, JavaScript
+* MapBox API
+    
+
 ## Results
 The following screenshots show the three different base layers with some different overlay options selected:
 * Streets base layer with all three overlays selected
